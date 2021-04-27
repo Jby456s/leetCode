@@ -4,7 +4,6 @@ package recursiontest;
  * 用递归的方式实现斐波那契数列
  * 斐波那契数列说明：f(n) = f(n-1)+f(n-2)
  *
- * @auther 贾博雅
  * @see
  * @since
  */
