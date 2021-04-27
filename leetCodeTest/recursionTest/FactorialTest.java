@@ -4,7 +4,6 @@ package recursiontest;
  * 用递归的方式实现阶乘
  * n! = n*(n-1)*....*1;
  *
- * @auther 贾博雅
  * @see
  * @since
  */
