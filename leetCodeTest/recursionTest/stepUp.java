@@ -7,7 +7,6 @@ package recursiontest;
  * 假如第一次上两个台阶，则后面有f(n-2)种上法
  * f(n) = f(n-1)+f(n-2)
  *
- * @auther 贾博雅
  * @see
  * @since
  */
